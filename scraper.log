@@ -804,3 +804,10 @@
 2025-08-03 11:12:03,175 - INFO: Processing bus: SUBHASREE (WB674033)
 2025-08-03 11:12:04,965 - INFO: Downloaded image: output/images/SUBHASREE_WB674033.webp
 2025-08-03 11:12:05,466 - INFO: Processing bus: BISWA BINA (WB29B9911)
+2025-08-03 11:12:07,719 - INFO: Downloaded image: output/images/BISWA_BINA_WB29B9911.webp
+2025-08-03 11:12:08,220 - INFO: Page 19 completed. Found 18 buses.
+2025-08-03 11:12:10,223 - INFO: Processing page 20: https://wbbus.in/allbus?page=20
+2025-08-03 11:12:10,988 - INFO: Processing bus: MAYER DAN (WB31A0769)
+2025-08-03 11:12:12,952 - INFO: Downloaded image: output/images/MAYER_DAN_WB31A0769.webp
+2025-08-03 11:12:13,454 - INFO: Processing bus: SULTAN (WB67A9247)
+2025-08-03 11:12:15,281 - INFO: Downloaded image: output/images/SULTAN_WB67A9247.webp
