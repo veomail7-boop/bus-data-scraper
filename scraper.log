@@ -844,3 +844,739 @@
 2025-08-03 11:12:54,581 - INFO: Processing bus: TUMPA SONA (WB55B7838)
 2025-08-03 11:12:56,952 - INFO: Downloaded image: output/images/TUMPA_SONA_WB55B7838.webp
 2025-08-03 11:12:57,454 - INFO: Page 20 completed. Found 18 buses.
+2025-08-03 11:12:59,456 - INFO: Processing page 21: https://wbbus.in/allbus?page=21
+2025-08-03 11:13:00,195 - INFO: Processing bus: PARTHA SAKHA (WB49N2139)
+2025-08-03 11:13:02,019 - INFO: Downloaded image: output/images/PARTHA_SAKHA_WB49N2139.webp
+2025-08-03 11:13:02,520 - INFO: Processing bus: TANVEER (WB41K2039)
+2025-08-03 11:13:04,838 - INFO: Downloaded image: output/images/TANVEER_WB41K2039.webp
+2025-08-03 11:13:05,339 - INFO: Processing bus: DEBAPRIYA (WB29C1050)
+2025-08-03 11:13:07,538 - INFO: Downloaded image: output/images/DEBAPRIYA_WB29C1050.webp
+2025-08-03 11:13:08,039 - INFO: Processing bus: AYESHA (WB67C1808)
+2025-08-03 11:13:09,976 - INFO: Downloaded image: output/images/AYESHA_WB67C1808.webp
+2025-08-03 11:13:10,478 - INFO: Processing bus: TARA MAA (WB07J0180)
+2025-08-03 11:13:12,758 - INFO: Downloaded image: output/images/TARA_MAA_WB07J0180.webp
+2025-08-03 11:13:13,259 - INFO: Processing bus: TARA MAA (WB15C2847)
+2025-08-03 11:13:15,862 - INFO: Downloaded image: output/images/TARA_MAA_WB15C2847.webp
+2025-08-03 11:13:16,364 - INFO: Processing bus: SRI KRISHNA (WB33E5465)
+2025-08-03 11:13:18,567 - INFO: Downloaded image: output/images/SRI_KRISHNA_WB33E5465.webp
+2025-08-03 11:13:19,068 - INFO: Processing bus: PRIYAJIT (WB25F5052)
+2025-08-03 11:13:21,016 - INFO: Downloaded image: output/images/PRIYAJIT_WB25F5052.webp
+2025-08-03 11:13:21,517 - INFO: Processing bus: DIAMOND (WB29C3934)
+2025-08-03 11:13:23,638 - INFO: Downloaded image: output/images/DIAMOND_WB29C3934.webp
+2025-08-03 11:13:24,139 - INFO: Processing bus: RAJDHANI EXPRESS (WB49N2499)
+2025-08-03 11:13:26,174 - INFO: Downloaded image: output/images/RAJDHANI_EXPRESS_WB49N2499.webp
+2025-08-03 11:13:26,675 - INFO: Processing bus: SAKLIN (WB15C3349)
+2025-08-03 11:13:29,316 - INFO: Downloaded image: output/images/SAKLIN_WB15C3349.webp
+2025-08-03 11:13:29,817 - INFO: Processing bus: CHANGDAR (WB49N2396)
+2025-08-03 11:13:32,102 - INFO: Downloaded image: output/images/CHANGDAR_WB49N2396.webp
+2025-08-03 11:13:32,603 - INFO: Processing bus: ATITHI (WB672909)
+2025-08-03 11:13:34,499 - INFO: Downloaded image: output/images/ATITHI_WB672909.webp
+2025-08-03 11:13:35,000 - INFO: Processing bus: KABITA (WB39B8849)
+2025-08-03 11:13:37,167 - INFO: Downloaded image: output/images/KABITA_WB39B8849.webp
+2025-08-03 11:13:37,668 - INFO: Processing bus: LAXMI SARASWATI (WB33A6031)
+2025-08-03 11:13:39,532 - INFO: Downloaded image: output/images/LAXMI_SARASWATI_WB33A6031.webp
+2025-08-03 11:13:40,034 - INFO: Processing bus: PAYEL (WB41D4687)
+2025-08-03 11:13:41,954 - INFO: Downloaded image: output/images/PAYEL_WB41D4687.webp
+2025-08-03 11:13:42,455 - INFO: Processing bus: MAA MANASA (WB41H3201)
+2025-08-03 11:13:44,483 - INFO: Downloaded image: output/images/MAA_MANASA_WB41H3201.webp
+2025-08-03 11:13:44,985 - INFO: Processing bus: BABA TARAKESWAR (WB29C2987)
+2025-08-03 11:13:47,402 - INFO: Downloaded image: output/images/BABA_TARAKESWAR_WB29C2987.webp
+2025-08-03 11:13:47,903 - INFO: Page 21 completed. Found 18 buses.
+2025-08-03 11:13:49,905 - INFO: Processing page 22: https://wbbus.in/allbus?page=22
+2025-08-03 11:13:50,636 - INFO: Processing bus: ROSHNI (WB33F3443)
+2025-08-03 11:13:52,909 - INFO: Downloaded image: output/images/ROSHNI_WB33F3443.webp
+2025-08-03 11:13:53,410 - INFO: Processing bus: JOY SRIKRISHNA (WB67B5278)
+2025-08-03 11:13:55,396 - INFO: Downloaded image: output/images/JOY_SRIKRISHNA_WB67B5278.webp
+2025-08-03 11:13:55,898 - INFO: Processing bus: KANGSABATI (WB55A4949)
+2025-08-03 11:13:57,709 - INFO: Downloaded image: output/images/KANGSABATI_WB55A4949.webp
+2025-08-03 11:13:58,210 - INFO: Processing bus: RAJDHANI EXPRESS (WB49N2199)
+2025-08-03 11:13:59,996 - INFO: Downloaded image: output/images/RAJDHANI_EXPRESS_WB49N2199.webp
+2025-08-03 11:14:00,498 - INFO: Processing bus: MAYER ANCHOL (SIDDHESHWARI) (WB53C4134)
+2025-08-03 11:14:02,360 - INFO: Downloaded image: output/images/MAYER_ANCHOL_(SIDDHESHWARI)_WB53C4134.webp
+2025-08-03 11:14:02,862 - INFO: Processing bus: MAYER ANCHOL (SIDDHESHWARI) (WB53C4134)
+2025-08-03 11:14:04,869 - INFO: Downloaded image: output/images/MAYER_ANCHOL_(SIDDHESHWARI)_WB53C4134.webp
+2025-08-03 11:14:05,371 - INFO: Processing bus: BASUNDHARA (WB178192)
+2025-08-03 11:14:07,423 - INFO: Downloaded image: output/images/BASUNDHARA_WB178192.webp
+2025-08-03 11:14:07,925 - INFO: Processing bus: RUDRANI (WB33D3454)
+2025-08-03 11:14:09,682 - INFO: Downloaded image: output/images/RUDRANI_WB33D3454.webp
+2025-08-03 11:14:10,183 - INFO: Processing bus: MAA DULALI (WB67C0600)
+2025-08-03 11:14:12,119 - INFO: Downloaded image: output/images/MAA_DULALI_WB67C0600.webp
+2025-08-03 11:14:12,621 - INFO: Processing bus: WESTERN DIAMOND (WB33C4836)
+2025-08-03 11:14:14,509 - INFO: Downloaded image: output/images/WESTERN_DIAMOND_WB33C4836.webp
+2025-08-03 11:14:15,011 - INFO: Processing bus: MAA SARBAJOYA (WB67B0712)
+2025-08-03 11:14:16,907 - INFO: Downloaded image: output/images/MAA_SARBAJOYA_WB67B0712.webp
+2025-08-03 11:14:17,408 - INFO: Processing bus: MAA JAGATGOURI (WB37E3393)
+2025-08-03 11:14:19,140 - INFO: Downloaded image: output/images/MAA_JAGATGOURI_WB37E3393.webp
+2025-08-03 11:14:19,641 - INFO: Processing bus: SONAR TORI (WB51B4939)
+2025-08-03 11:14:21,368 - INFO: Downloaded image: output/images/SONAR_TORI_WB51B4939.webp
+2025-08-03 11:14:21,869 - INFO: Processing bus: BHAGYALAXMI (WB55A4911)
+2025-08-03 11:14:23,759 - INFO: Downloaded image: output/images/BHAGYALAXMI_WB55A4911.webp
+2025-08-03 11:14:24,260 - INFO: Processing bus: ASR TRAVELS (WB57C0999)
+2025-08-03 11:14:26,368 - INFO: Downloaded image: output/images/ASR_TRAVELS_WB57C0999.webp
+2025-08-03 11:14:26,870 - INFO: Processing bus: DURDAR GATI (WB41E4265)
+2025-08-03 11:14:28,797 - INFO: Downloaded image: output/images/DURDAR_GATI_WB41E4265.webp
+2025-08-03 11:14:29,298 - INFO: Processing bus: MAA PARUL (WB67C2099)
+2025-08-03 11:14:31,046 - INFO: Downloaded image: output/images/MAA_PARUL_WB67C2099.webp
+2025-08-03 11:14:31,547 - INFO: Processing bus: GHARE BAIRE (WB67B1852)
+2025-08-03 11:14:33,325 - INFO: Downloaded image: output/images/GHARE_BAIRE_WB67B1852.webp
+2025-08-03 11:14:33,827 - INFO: Page 22 completed. Found 18 buses.
+2025-08-03 11:14:35,827 - INFO: Processing page 23: https://wbbus.in/allbus?page=23
+2025-08-03 11:14:36,559 - INFO: Processing bus: NAYAK (WB67B2398)
+2025-08-03 11:14:38,471 - INFO: Downloaded image: output/images/NAYAK_WB67B2398.webp
+2025-08-03 11:14:38,973 - INFO: Processing bus: ANJALI (WB67B7568)
+2025-08-03 11:14:40,876 - INFO: Downloaded image: output/images/ANJALI_WB67B7568.webp
+2025-08-03 11:14:41,377 - INFO: Processing bus: MANASI (WB672936)
+2025-08-03 11:14:43,171 - INFO: Downloaded image: output/images/MANASI_WB672936.webp
+2025-08-03 11:14:43,672 - INFO: Processing bus: BABA LOKENATH (WB33D4067)
+2025-08-03 11:14:45,840 - INFO: Downloaded image: output/images/BABA_LOKENATH_WB33D4067.webp
+2025-08-03 11:14:46,342 - INFO: Processing bus: GITANJALI (WB41J7171)
+2025-08-03 11:14:48,400 - INFO: Downloaded image: output/images/GITANJALI_WB41J7171.webp
+2025-08-03 11:14:48,901 - INFO: Processing bus: JOY BABA KHETRAPAL (WB33B3932)
+2025-08-03 11:14:50,712 - INFO: Downloaded image: output/images/JOY_BABA_KHETRAPAL_WB33B3932.webp
+2025-08-03 11:14:51,213 - INFO: Processing bus: NEHA TRAVELS (WB33F3306)
+2025-08-03 11:14:53,121 - INFO: Downloaded image: output/images/NEHA_TRAVELS_WB33F3306.webp
+2025-08-03 11:14:53,622 - INFO: Processing bus: TIRUPATI (WB67B9099)
+2025-08-03 11:14:55,534 - INFO: Downloaded image: output/images/TIRUPATI_WB67B9099.webp
+2025-08-03 11:14:56,035 - INFO: Processing bus: JOY MAHAPRABHU (WB29C3343)
+2025-08-03 11:14:57,769 - INFO: Downloaded image: output/images/JOY_MAHAPRABHU_WB29C3343.webp
+2025-08-03 11:14:58,270 - INFO: Processing bus: RAKHAL RAJA (WB291268)
+2025-08-03 11:15:00,256 - INFO: Downloaded image: output/images/RAKHAL_RAJA_WB291268.webp
+2025-08-03 11:15:00,757 - INFO: Processing bus: NAYANMONI (WB33F3297)
+2025-08-03 11:15:03,027 - INFO: Downloaded image: output/images/NAYANMONI_WB33F3297.webp
+2025-08-03 11:15:03,529 - INFO: Processing bus: MAA CHANDI (WB67A1199)
+2025-08-03 11:15:05,610 - INFO: Downloaded image: output/images/MAA_CHANDI_WB67A1199.webp
+2025-08-03 11:15:06,112 - INFO: Processing bus: NIRANKAR (WB67A0652)
+2025-08-03 11:15:08,370 - INFO: Downloaded image: output/images/NIRANKAR_WB67A0652.webp
+2025-08-03 11:15:08,871 - INFO: Processing bus: MAYABATI (WB15C9837)
+2025-08-03 11:15:11,571 - INFO: Downloaded image: output/images/MAYABATI_WB15C9837.webp
+2025-08-03 11:15:12,072 - INFO: Processing bus: MAA SABITRI (WB29B5760)
+2025-08-03 11:15:14,365 - INFO: Downloaded image: output/images/MAA_SABITRI_WB29B5760.webp
+2025-08-03 11:15:14,866 - INFO: Processing bus: PUTUL (WB67A9040)
+2025-08-03 11:15:17,662 - INFO: Downloaded image: output/images/PUTUL_WB67A9040.webp
+2025-08-03 11:15:18,163 - INFO: Processing bus: PALLYDOOT (WB67A8266)
+2025-08-03 11:15:21,212 - INFO: Downloaded image: output/images/PALLYDOOT_WB67A8266.webp
+2025-08-03 11:15:21,713 - INFO: Processing bus: PALLYDOOT (WB67A8266)
+2025-08-03 11:15:23,580 - INFO: Downloaded image: output/images/PALLYDOOT_WB67A8266.webp
+2025-08-03 11:15:24,081 - INFO: Page 23 completed. Found 18 buses.
+2025-08-03 11:15:26,083 - INFO: Processing page 24: https://wbbus.in/allbus?page=24
+2025-08-03 11:15:26,903 - INFO: Processing bus: ROF ROF (WB33F3262)
+2025-08-03 11:15:28,993 - INFO: Downloaded image: output/images/ROF_ROF_WB33F3262.webp
+2025-08-03 11:15:29,494 - INFO: Processing bus: SOURAV (WB29B2061)
+2025-08-03 11:15:31,906 - INFO: Downloaded image: output/images/SOURAV_WB29B2061.webp
+2025-08-03 11:15:32,407 - INFO: Processing bus: SULOCHONA (WB67B4332)
+2025-08-03 11:15:34,485 - INFO: Downloaded image: output/images/SULOCHONA_WB67B4332.webp
+2025-08-03 11:15:34,986 - INFO: Processing bus: SULOCHONA (WB67B4332)
+2025-08-03 11:15:37,046 - INFO: Downloaded image: output/images/SULOCHONA_WB67B4332.webp
+2025-08-03 11:15:37,547 - INFO: Processing bus: ATITHI (WB67B1167)
+2025-08-03 11:15:39,367 - INFO: Downloaded image: output/images/ATITHI_WB67B1167.webp
+2025-08-03 11:15:39,869 - INFO: Processing bus: SWEETY (WB39B6338)
+2025-08-03 11:15:41,951 - INFO: Downloaded image: output/images/SWEETY_WB39B6338.webp
+2025-08-03 11:15:42,452 - INFO: Processing bus: SHAKTI SREE (WB29B1394)
+2025-08-03 11:15:44,302 - INFO: Downloaded image: output/images/SHAKTI_SREE_WB29B1394.webp
+2025-08-03 11:15:44,804 - INFO: Processing bus: DISHA (WB33F2716)
+2025-08-03 11:15:46,495 - INFO: Downloaded image: output/images/DISHA_WB33F2716.webp
+2025-08-03 11:15:46,996 - INFO: Processing bus: NABAJATRA (WB33D3053)
+2025-08-03 11:15:49,361 - INFO: Downloaded image: output/images/NABAJATRA_WB33D3053.webp
+2025-08-03 11:15:49,863 - INFO: Processing bus: NABAJATRA (WB33D3053)
+2025-08-03 11:15:52,121 - INFO: Downloaded image: output/images/NABAJATRA_WB33D3053.webp
+2025-08-03 11:15:52,623 - INFO: Processing bus: LAL PARUL (WB67C1598)
+2025-08-03 11:15:54,562 - INFO: Downloaded image: output/images/LAL_PARUL_WB67C1598.webp
+2025-08-03 11:15:55,063 - INFO: Processing bus: MAA SHARADA (WB67C2882)
+2025-08-03 11:15:56,798 - INFO: Downloaded image: output/images/MAA_SHARADA_WB67C2882.webp
+2025-08-03 11:15:57,299 - INFO: Processing bus: MAA SHARADA (WB67C2882)
+2025-08-03 11:15:59,720 - INFO: Downloaded image: output/images/MAA_SHARADA_WB67C2882.jpg
+2025-08-03 11:16:00,221 - INFO: Processing bus: JAYANTI (WB31A6794)
+2025-08-03 11:16:02,617 - INFO: Downloaded image: output/images/JAYANTI_WB31A6794.webp
+2025-08-03 11:16:03,118 - INFO: Processing bus: JAI MAA DURGA (WB55B1765)
+2025-08-03 11:16:05,578 - INFO: Downloaded image: output/images/JAI_MAA_DURGA_WB55B1765.jpg
+2025-08-03 11:16:06,080 - INFO: Processing bus: TIRUPATI (WB675678)
+2025-08-03 11:16:09,127 - INFO: Downloaded image: output/images/TIRUPATI_WB675678.jpg
+2025-08-03 11:16:09,628 - INFO: Processing bus: BISWAKABI (WB51A0617)
+2025-08-03 11:16:12,394 - INFO: Downloaded image: output/images/BISWAKABI_WB51A0617.jpg
+2025-08-03 11:16:12,895 - INFO: Processing bus: HAMIM (WB67A9183)
+2025-08-03 11:16:15,819 - INFO: Downloaded image: output/images/HAMIM_WB67A9183.jpg
+2025-08-03 11:16:16,320 - INFO: Page 24 completed. Found 18 buses.
+2025-08-03 11:16:18,323 - INFO: Processing page 25: https://wbbus.in/allbus?page=25
+2025-08-03 11:16:19,183 - INFO: Processing bus: SHREE MADHUSUDHAN (WB67A9423)
+2025-08-03 11:16:21,560 - INFO: Downloaded image: output/images/SHREE_MADHUSUDHAN_WB67A9423.jpg
+2025-08-03 11:16:22,061 - INFO: Processing bus: MAA BAGALA (WB33A6969)
+2025-08-03 11:16:24,029 - INFO: Downloaded image: output/images/MAA_BAGALA_WB33A6969.webp
+2025-08-03 11:16:24,531 - INFO: Processing bus: KRISHNA (WB336326)
+2025-08-03 11:16:27,318 - INFO: Downloaded image: output/images/KRISHNA_WB336326.jpg
+2025-08-03 11:16:27,820 - INFO: Processing bus: GREEN VALLEY (WB33F2235)
+2025-08-03 11:16:30,362 - INFO: Downloaded image: output/images/GREEN_VALLEY_WB33F2235.jpg
+2025-08-03 11:16:30,863 - INFO: Processing bus: MAA GITA (WB672222)
+2025-08-03 11:16:33,534 - INFO: Downloaded image: output/images/MAA_GITA_WB672222.jpg
+2025-08-03 11:16:34,035 - INFO: Processing bus: MAA GITA (WB672222)
+2025-08-03 11:16:36,761 - INFO: Downloaded image: output/images/MAA_GITA_WB672222.jpg
+2025-08-03 11:16:37,262 - INFO: Processing bus: AVIJAN (WB33B9200)
+2025-08-03 11:16:39,313 - INFO: Downloaded image: output/images/AVIJAN_WB33B9200.webp
+2025-08-03 11:16:39,815 - INFO: Processing bus: MAA LAXMI (WB55B6782)
+2025-08-03 11:16:42,336 - INFO: Downloaded image: output/images/MAA_LAXMI_WB55B6782.jpg
+2025-08-03 11:16:42,838 - INFO: Processing bus: MUKTA BIHANGA (WB677447)
+2025-08-03 11:16:45,674 - INFO: Downloaded image: output/images/MUKTA_BIHANGA_WB677447.jpg
+2025-08-03 11:16:46,175 - INFO: Processing bus: TANVEER (WB33B5549)
+2025-08-03 11:16:49,282 - INFO: Downloaded image: output/images/TANVEER_WB33B5549.jpg
+2025-08-03 11:16:49,783 - INFO: Processing bus: MADAN MOHAN (WB29C5225)
+2025-08-03 11:16:51,568 - INFO: Downloaded image: output/images/MADAN_MOHAN_WB29C5225.webp
+2025-08-03 11:16:52,069 - INFO: Processing bus: TRILOCHAN (WB67B8156)
+2025-08-03 11:16:54,463 - INFO: Downloaded image: output/images/TRILOCHAN_WB67B8156.jpg
+2025-08-03 11:16:54,964 - INFO: Processing bus: NOSIB (WB33F3135)
+2025-08-03 11:16:57,809 - INFO: Downloaded image: output/images/NOSIB_WB33F3135.jpg
+2025-08-03 11:16:58,310 - INFO: Processing bus: SATADAL (WB29B6869)
+2025-08-03 11:17:00,618 - INFO: Downloaded image: output/images/SATADAL_WB29B6869.jpg
+2025-08-03 11:17:01,120 - INFO: Processing bus: ROSHNI (WB33F1792)
+2025-08-03 11:17:04,402 - INFO: Downloaded image: output/images/ROSHNI_WB33F1792.jpg
+2025-08-03 11:17:04,904 - INFO: Processing bus: MAA SANAKA (WB11D1177)
+2025-08-03 11:17:08,032 - INFO: Downloaded image: output/images/MAA_SANAKA_WB11D1177.jpg
+2025-08-03 11:17:08,534 - INFO: Processing bus: BANKI BIHARI (WB31A6632)
+2025-08-03 11:17:11,408 - INFO: Downloaded image: output/images/BANKI_BIHARI_WB31A6632.jpg
+2025-08-03 11:17:11,910 - INFO: Processing bus: SHRI GANESH (WB29C1748)
+2025-08-03 11:17:14,320 - INFO: Downloaded image: output/images/SHRI_GANESH_WB29C1748.jpg
+2025-08-03 11:17:14,821 - INFO: Page 25 completed. Found 18 buses.
+2025-08-03 11:17:16,823 - INFO: Processing page 26: https://wbbus.in/allbus?page=26
+2025-08-03 11:17:17,560 - INFO: Processing bus: K.G.N. (WB31B5551)
+2025-08-03 11:17:20,357 - INFO: Downloaded image: output/images/K.G.N._WB31B5551.jpg
+2025-08-03 11:17:20,858 - INFO: Processing bus: BANHISIKHA (WB55A2816)
+2025-08-03 11:17:22,960 - INFO: Downloaded image: output/images/BANHISIKHA_WB55A2816.jpg
+2025-08-03 11:17:23,461 - INFO: Processing bus: FRIENDS (WBC672280)
+2025-08-03 11:17:25,933 - INFO: Downloaded image: output/images/FRIENDS_WBC672280.jpg
+2025-08-03 11:17:26,434 - INFO: Processing bus: JALESWAR (WB132540)
+2025-08-03 11:17:28,130 - INFO: Downloaded image: output/images/JALESWAR_WB132540.webp
+2025-08-03 11:17:28,631 - INFO: Processing bus: JANARDAN (WB67B7424)
+2025-08-03 11:17:31,323 - INFO: Downloaded image: output/images/JANARDAN_WB67B7424.jpg
+2025-08-03 11:17:31,825 - INFO: Processing bus: SANCHITA (WB33B0346)
+2025-08-03 11:17:34,598 - INFO: Downloaded image: output/images/SANCHITA_WB33B0346.jpg
+2025-08-03 11:17:35,099 - INFO: Processing bus: MAA BELA (WB679783)
+2025-08-03 11:17:37,395 - INFO: Downloaded image: output/images/MAA_BELA_WB679783.jpg
+2025-08-03 11:17:37,897 - INFO: Processing bus: RAKHAL SOKHA (WB674899)
+2025-08-03 11:17:41,582 - INFO: Downloaded image: output/images/RAKHAL_SOKHA_WB674899.jpg
+2025-08-03 11:17:42,084 - INFO: Processing bus: MAA DURGA (WB37A9721)
+2025-08-03 11:17:44,641 - INFO: Downloaded image: output/images/MAA_DURGA_WB37A9721.jpg
+2025-08-03 11:17:45,142 - INFO: Processing bus: SWEETY (WB39A8207)
+2025-08-03 11:17:47,884 - INFO: Downloaded image: output/images/SWEETY_WB39A8207.jpg
+2025-08-03 11:17:48,385 - INFO: Processing bus: RAHUL (WB679527)
+2025-08-03 11:17:51,555 - INFO: Downloaded image: output/images/RAHUL_WB679527.jpg
+2025-08-03 11:17:52,056 - INFO: Processing bus: DIAMOND (WB41F6453)
+2025-08-03 11:17:54,861 - INFO: Downloaded image: output/images/DIAMOND_WB41F6453.jpg
+2025-08-03 11:17:55,363 - INFO: Processing bus: P TRAVELS (WB29C4626)
+2025-08-03 11:17:57,325 - INFO: Downloaded image: output/images/P_TRAVELS_WB29C4626.jpg
+2025-08-03 11:17:57,827 - INFO: Processing bus: BK TRAVELS (WB315899)
+2025-08-03 11:17:59,927 - INFO: Downloaded image: output/images/BK_TRAVELS_WB315899.webp
+2025-08-03 11:18:00,429 - INFO: Processing bus: MAA PARBATI (WB552093)
+2025-08-03 11:18:03,496 - INFO: Downloaded image: output/images/MAA_PARBATI_WB552093.jpg
+2025-08-03 11:18:03,997 - INFO: Processing bus: LAXMI JANARDAN (WB33F1493)
+2025-08-03 11:18:08,614 - INFO: Downloaded image: output/images/LAXMI_JANARDAN_WB33F1493.jpg
+2025-08-03 11:18:09,115 - INFO: Processing bus: GUDDI (WB677989)
+2025-08-03 11:18:11,641 - INFO: Downloaded image: output/images/GUDDI_WB677989.jpg
+2025-08-03 11:18:12,142 - INFO: Processing bus: NILKANTHA (WB31A0273)
+2025-08-03 11:18:14,579 - INFO: Downloaded image: output/images/NILKANTHA_WB31A0273.jpg
+2025-08-03 11:18:15,080 - INFO: Page 26 completed. Found 18 buses.
+2025-08-03 11:18:17,083 - INFO: Processing page 27: https://wbbus.in/allbus?page=27
+2025-08-03 11:18:17,808 - INFO: Processing bus: SBSTC (J)
+2025-08-03 11:18:20,251 - INFO: Downloaded image: output/images/SBSTC_J.jpg
+2025-08-03 11:18:20,753 - INFO: Processing bus: TUFAN GOLD (WB65D1907)
+2025-08-03 11:18:23,403 - INFO: Downloaded image: output/images/TUFAN_GOLD_WB65D1907.jpg
+2025-08-03 11:18:23,904 - INFO: Processing bus: CHARUBALA (WB67B4414)
+2025-08-03 11:18:26,462 - INFO: Downloaded image: output/images/CHARUBALA_WB67B4414.jpg
+2025-08-03 11:18:26,963 - INFO: Processing bus: DURANTA (WB33D3786)
+2025-08-03 11:18:29,558 - INFO: Downloaded image: output/images/DURANTA_WB33D3786.jpg
+2025-08-03 11:18:30,059 - INFO: Processing bus: TRIBENI (WB67B7484)
+2025-08-03 11:18:32,566 - INFO: Downloaded image: output/images/TRIBENI_WB67B7484.jpg
+2025-08-03 11:18:33,068 - INFO: Processing bus: TRIBENI (WB39B7739)
+2025-08-03 11:18:35,507 - INFO: Downloaded image: output/images/TRIBENI_WB39B7739.jpg
+2025-08-03 11:18:36,008 - INFO: Processing bus: SRT Travels (WB55B2345)
+2025-08-03 11:18:38,612 - INFO: Downloaded image: output/images/SRT_Travels_WB55B2345.jpg
+2025-08-03 11:18:39,113 - INFO: Processing bus: AMRABATI (WB29C3330)
+2025-08-03 11:18:41,112 - INFO: Downloaded image: output/images/AMRABATI_WB29C3330.jpg
+2025-08-03 11:18:41,613 - INFO: Processing bus: MOUSUMI (WB67A6902)
+2025-08-03 11:18:43,665 - INFO: Downloaded image: output/images/MOUSUMI_WB67A6902.webp
+2025-08-03 11:18:44,166 - INFO: Processing bus: ADDYA SHAKTI (WB531693)
+2025-08-03 11:18:46,553 - INFO: Downloaded image: output/images/ADDYA_SHAKTI_WB531693.jpg
+2025-08-03 11:18:47,054 - INFO: Processing bus: MAMATAMAYEE (WB49N2136)
+2025-08-03 11:18:49,242 - INFO: Downloaded image: output/images/MAMATAMAYEE_WB49N2136.jpg
+2025-08-03 11:18:49,744 - INFO: Processing bus: SRI BISHNU (WB33C5130)
+2025-08-03 11:18:51,849 - INFO: Downloaded image: output/images/SRI_BISHNU_WB33C5130.webp
+2025-08-03 11:18:52,350 - INFO: Processing bus: CHANGDAR (WB49N1045)
+2025-08-03 11:18:55,062 - INFO: Downloaded image: output/images/CHANGDAR_WB49N1045.jpg
+2025-08-03 11:18:55,563 - INFO: Processing bus: TITHY (WB67C7337)
+2025-08-03 11:18:57,730 - INFO: Downloaded image: output/images/TITHY_WB67C7337.webp
+2025-08-03 11:18:58,231 - INFO: Processing bus: KATTAYANI (WB29D9117)
+2025-08-03 11:19:00,148 - INFO: Downloaded image: output/images/KATTAYANI_WB29D9117.webp
+2025-08-03 11:19:00,650 - INFO: Processing bus: TITHI (WB67B8707)
+2025-08-03 11:19:02,598 - INFO: Downloaded image: output/images/TITHI_WB67B8707.webp
+2025-08-03 11:19:03,099 - INFO: Processing bus: SRI KRISHNA (WB33C8888)
+2025-08-03 11:19:05,497 - INFO: Downloaded image: output/images/SRI_KRISHNA_WB33C8888.jpg
+2025-08-03 11:19:05,999 - INFO: Processing bus: MAA DURGA (WB33B5942)
+2025-08-03 11:19:07,935 - INFO: Downloaded image: output/images/MAA_DURGA_WB33B5942.webp
+2025-08-03 11:19:08,436 - INFO: Page 27 completed. Found 18 buses.
+2025-08-03 11:19:10,438 - INFO: Processing page 28: https://wbbus.in/allbus?page=28
+2025-08-03 11:19:11,173 - INFO: Processing bus: BABA BHAIRAV (WB67A5938)
+2025-08-03 11:19:13,316 - INFO: Downloaded image: output/images/BABA_BHAIRAV_WB67A5938.jpg
+2025-08-03 11:19:13,817 - INFO: Processing bus: NILANJALI (WB315572)
+2025-08-03 11:19:16,606 - INFO: Downloaded image: output/images/NILANJALI_WB315572.jpg
+2025-08-03 11:19:17,107 - INFO: Processing bus: DEBAYANTI (WB490806)
+2025-08-03 11:19:19,284 - INFO: Downloaded image: output/images/DEBAYANTI_WB490806.webp
+2025-08-03 11:19:19,785 - INFO: Processing bus: PATHER DABI (WB33D1170)
+2025-08-03 11:19:22,445 - INFO: Downloaded image: output/images/PATHER_DABI_WB33D1170.jpg
+2025-08-03 11:19:22,946 - INFO: Processing bus: PLATINUM (WB33D0020)
+2025-08-03 11:19:25,401 - INFO: Downloaded image: output/images/PLATINUM_WB33D0020.jpg
+2025-08-03 11:19:25,903 - INFO: Processing bus: PLATINUM (WB33D0020)
+2025-08-03 11:19:28,291 - INFO: Downloaded image: output/images/PLATINUM_WB33D0020.jpg
+2025-08-03 11:19:28,793 - INFO: Processing bus: SHRADHANJALI (WB33F2197)
+2025-08-03 11:19:31,002 - INFO: Downloaded image: output/images/SHRADHANJALI_WB33F2197.jpg
+2025-08-03 11:19:31,504 - INFO: Processing bus: SULOCHONA (WB67C1990)
+2025-08-03 11:19:33,462 - INFO: Downloaded image: output/images/SULOCHONA_WB67C1990.jpg
+2025-08-03 11:19:33,963 - INFO: Processing bus: TUFAN (WB673259)
+2025-08-03 11:19:35,683 - INFO: Downloaded image: output/images/TUFAN_WB673259.jpg
+2025-08-03 11:19:36,184 - INFO: Processing bus: SWEETY (WB39B2435)
+2025-08-03 11:19:38,581 - INFO: Downloaded image: output/images/SWEETY_WB39B2435.jpg
+2025-08-03 11:19:39,082 - INFO: Processing bus: CYCLONE (WB33C8185)
+2025-08-03 11:19:40,947 - INFO: Downloaded image: output/images/CYCLONE_WB33C8185.jpg
+2025-08-03 11:19:41,449 - INFO: Processing bus: RAMKRISHNA (WB33B3939)
+2025-08-03 11:19:43,915 - INFO: Downloaded image: output/images/RAMKRISHNA_WB33B3939.jpg
+2025-08-03 11:19:44,416 - INFO: Processing bus: FIROZ (WB33C0638)
+2025-08-03 11:19:46,947 - INFO: Downloaded image: output/images/FIROZ_WB33C0638.jpg
+2025-08-03 11:19:47,448 - INFO: Processing bus: FIROZ (WB33C0638)
+2025-08-03 11:19:50,156 - INFO: Downloaded image: output/images/FIROZ_WB33C0638.jpg
+2025-08-03 11:19:50,658 - INFO: Processing bus: SWEETY (WB41J9888)
+2025-08-03 11:19:52,911 - INFO: Downloaded image: output/images/SWEETY_WB41J9888.jpg
+2025-08-03 11:19:53,412 - INFO: Processing bus: NILKANTHA (WB29A3009)
+2025-08-03 11:19:56,094 - INFO: Downloaded image: output/images/NILKANTHA_WB29A3009.jpg
+2025-08-03 11:19:56,596 - INFO: Processing bus: JAI MAA DURGA (WB55B2323)
+2025-08-03 11:19:59,073 - INFO: Downloaded image: output/images/JAI_MAA_DURGA_WB55B2323.jpg
+2025-08-03 11:19:59,574 - INFO: Processing bus: PRIYAJIT (WB15C4942)
+2025-08-03 11:20:01,508 - INFO: Downloaded image: output/images/PRIYAJIT_WB15C4942.jpg
+2025-08-03 11:20:02,010 - INFO: Page 28 completed. Found 18 buses.
+2025-08-03 11:20:04,012 - INFO: Processing page 29: https://wbbus.in/allbus?page=29
+2025-08-03 11:20:04,688 - INFO: Processing bus: SBSTC (B)
+2025-08-03 11:20:07,256 - INFO: Downloaded image: output/images/SBSTC_B.jpg
+2025-08-03 11:20:07,757 - INFO: Processing bus: KRISHNACHURA (WB11C5875)
+2025-08-03 11:20:10,357 - INFO: Downloaded image: output/images/KRISHNACHURA_WB11C5875.jpg
+2025-08-03 11:20:10,858 - INFO: Processing bus: KRISHNACHURA (WB11C5875)
+2025-08-03 11:20:13,422 - INFO: Downloaded image: output/images/KRISHNACHURA_WB11C5875.jpg
+2025-08-03 11:20:13,923 - INFO: Processing bus: AVINANDAN (WB33A3711)
+2025-08-03 11:20:16,632 - INFO: Downloaded image: output/images/AVINANDAN_WB33A3711.jpg
+2025-08-03 11:20:17,133 - INFO: Processing bus: GANGARAM (WB339069)
+2025-08-03 11:20:19,657 - INFO: Downloaded image: output/images/GANGARAM_WB339069.jpg
+2025-08-03 11:20:20,158 - INFO: Processing bus: LAXMI JANARDAN (WB33E1199)
+2025-08-03 11:20:22,495 - INFO: Downloaded image: output/images/LAXMI_JANARDAN_WB33E1199.jpg
+2025-08-03 11:20:22,996 - INFO: Processing bus: MAA BARGABHIMA (WB67C1592)
+2025-08-03 11:20:25,490 - INFO: Downloaded image: output/images/MAA_BARGABHIMA_WB67C1592.jpg
+2025-08-03 11:20:25,992 - INFO: Processing bus: JOY JISHU (WB51C7231)
+2025-08-03 11:20:28,068 - INFO: Downloaded image: output/images/JOY_JISHU_WB51C7231.webp
+2025-08-03 11:20:28,570 - INFO: Processing bus: GOLDEN (WB33A6521)
+2025-08-03 11:20:30,537 - INFO: Downloaded image: output/images/GOLDEN_WB33A6521.jpg
+2025-08-03 11:20:31,038 - INFO: Processing bus: PRATIKSHA (WB41G0104)
+2025-08-03 11:20:33,604 - INFO: Downloaded image: output/images/PRATIKSHA_WB41G0104.jpg
+2025-08-03 11:20:34,105 - INFO: Processing bus: SHAKAMBARI (WB29B8889)
+2025-08-03 11:20:36,883 - INFO: Downloaded image: output/images/SHAKAMBARI_WB29B8889.jpg
+2025-08-03 11:20:37,384 - INFO: Processing bus: LAL PARUL (WB67B9980)
+2025-08-03 11:20:39,668 - INFO: Downloaded image: output/images/LAL_PARUL_WB67B9980.jpg
+2025-08-03 11:20:40,169 - INFO: Processing bus: LAL PARUL (WB67C0498)
+2025-08-03 11:20:42,880 - INFO: Downloaded image: output/images/LAL_PARUL_WB67C0498.jpg
+2025-08-03 11:20:43,381 - INFO: Processing bus: AVINANDAN (WB33F1527)
+2025-08-03 11:20:45,951 - INFO: Downloaded image: output/images/AVINANDAN_WB33F1527.jpg
+2025-08-03 11:20:46,453 - INFO: Processing bus: MAYER DAN (WB29B4110)
+2025-08-03 11:20:48,400 - INFO: Downloaded image: output/images/MAYER_DAN_WB29B4110.jpg
+2025-08-03 11:20:48,902 - INFO: Processing bus: HITLAR (WB316982)
+2025-08-03 11:20:51,571 - INFO: Downloaded image: output/images/HITLAR_WB316982.jpg
+2025-08-03 11:20:52,073 - INFO: Processing bus: SOUMEN (WB29B5781)
+2025-08-03 11:20:54,122 - INFO: Downloaded image: output/images/SOUMEN_WB29B5781.jpg
+2025-08-03 11:20:54,623 - INFO: Processing bus: MONIKA (WB679660)
+2025-08-03 11:20:56,864 - INFO: Downloaded image: output/images/MONIKA_WB679660.jpg
+2025-08-03 11:20:57,365 - INFO: Page 29 completed. Found 18 buses.
+2025-08-03 11:20:59,368 - INFO: Processing page 30: https://wbbus.in/allbus?page=30
+2025-08-03 11:21:00,143 - INFO: Processing bus: CHARUBALA (WB673151)
+2025-08-03 11:21:02,781 - INFO: Downloaded image: output/images/CHARUBALA_WB673151.jpg
+2025-08-03 11:21:03,282 - INFO: Processing bus: CHARUBALA (WB673151)
+2025-08-03 11:21:05,807 - INFO: Downloaded image: output/images/CHARUBALA_WB673151.jpg
+2025-08-03 11:21:06,309 - INFO: Processing bus: RAVI (WB41H5161)
+2025-08-03 11:21:08,830 - INFO: Downloaded image: output/images/RAVI_WB41H5161.jpg
+2025-08-03 11:21:09,331 - INFO: Processing bus: ISHAN (WB67C1858)
+2025-08-03 11:21:11,872 - INFO: Downloaded image: output/images/ISHAN_WB67C1858.jpg
+2025-08-03 11:21:12,373 - INFO: Processing bus: TAMRALIPTA EXPRESS (WB319959)
+2025-08-03 11:21:14,974 - INFO: Downloaded image: output/images/TAMRALIPTA_EXPRESS_WB319959.jpg
+2025-08-03 11:21:15,475 - INFO: Processing bus: JOY BABA KHETRAPAL (WB25C2394)
+2025-08-03 11:21:18,027 - INFO: Downloaded image: output/images/JOY_BABA_KHETRAPAL_WB25C2394.jpg
+2025-08-03 11:21:18,529 - INFO: Processing bus: BABUSONA (WB41G8198)
+2025-08-03 11:21:20,896 - INFO: Downloaded image: output/images/BABUSONA_WB41G8198.webp
+2025-08-03 11:21:21,398 - INFO: Processing bus: GOPINATH (WB51B3307)
+2025-08-03 11:21:23,961 - INFO: Downloaded image: output/images/GOPINATH_WB51B3307.jpg
+2025-08-03 11:21:24,463 - INFO: Processing bus: JOY GORAM (WB55A8004)
+2025-08-03 11:21:26,471 - INFO: Downloaded image: output/images/JOY_GORAM_WB55A8004.webp
+2025-08-03 11:21:26,973 - INFO: Processing bus: SHIVSHAKTI (WB31A3464)
+2025-08-03 11:21:29,672 - INFO: Downloaded image: output/images/SHIVSHAKTI_WB31A3464.jpg
+2025-08-03 11:21:30,173 - INFO: Processing bus: BULU (WB33F0690)
+2025-08-03 11:21:32,325 - INFO: Downloaded image: output/images/BULU_WB33F0690.jpg
+2025-08-03 11:21:32,826 - INFO: Processing bus: SUPER CITIZEN (WB33C7295)
+2025-08-03 11:21:35,140 - INFO: Downloaded image: output/images/SUPER_CITIZEN_WB33C7295.jpg
+2025-08-03 11:21:35,641 - INFO: Processing bus: SHIVAM (WB41C5918)
+2025-08-03 11:21:37,870 - INFO: Downloaded image: output/images/SHIVAM_WB41C5918.jpg
+2025-08-03 11:21:38,371 - INFO: Processing bus: SAHANA (WB55B7229)
+2025-08-03 11:21:41,199 - INFO: Downloaded image: output/images/SAHANA_WB55B7229.jpg
+2025-08-03 11:21:41,701 - INFO: Processing bus: SHIVSHAKTI (WB29B2132)
+2025-08-03 11:21:44,026 - INFO: Downloaded image: output/images/SHIVSHAKTI_WB29B2132.jpg
+2025-08-03 11:21:44,527 - INFO: Processing bus: TARA MAA (WB33C0696)
+2025-08-03 11:21:46,753 - INFO: Downloaded image: output/images/TARA_MAA_WB33C0696.jpg
+2025-08-03 11:21:47,254 - INFO: Processing bus: SBSTC (A)
+2025-08-03 11:21:48,967 - INFO: Downloaded image: output/images/SBSTC_A.jpg
+2025-08-03 11:21:49,468 - INFO: Processing bus: MAA KOKONDESHWARI (WB33A9973)
+2025-08-03 11:21:51,971 - INFO: Downloaded image: output/images/MAA_KOKONDESHWARI_WB33A9973.jpg
+2025-08-03 11:21:52,472 - INFO: Page 30 completed. Found 18 buses.
+2025-08-03 11:21:54,474 - INFO: Processing page 31: https://wbbus.in/allbus?page=31
+2025-08-03 11:21:55,216 - INFO: Processing bus: RINKU DIDI (WB55A4652)
+2025-08-03 11:21:57,886 - INFO: Downloaded image: output/images/RINKU_DIDI_WB55A4652.jpg
+2025-08-03 11:21:58,387 - INFO: Processing bus: AZAD HIND (WB675445)
+2025-08-03 11:22:01,210 - INFO: Downloaded image: output/images/AZAD_HIND_WB675445.jpg
+2025-08-03 11:22:01,711 - INFO: Processing bus: PALLY DUTH (WB41K2522)
+2025-08-03 11:22:04,358 - INFO: Downloaded image: output/images/PALLY_DUTH_WB41K2522.jpg
+2025-08-03 11:22:04,859 - INFO: Processing bus: MAA TULSI (WB67B8988)
+2025-08-03 11:22:06,541 - INFO: Downloaded image: output/images/MAA_TULSI_WB67B8988.jpg
+2025-08-03 11:22:07,043 - INFO: Processing bus: JOY MAA TARA (WB41B8613)
+2025-08-03 11:22:09,647 - INFO: Downloaded image: output/images/JOY_MAA_TARA_WB41B8613.jpg
+2025-08-03 11:22:10,148 - INFO: Processing bus: MAA VAISHNODEVI (WB37D3018)
+2025-08-03 11:22:11,879 - INFO: Downloaded image: output/images/MAA_VAISHNODEVI_WB37D3018.webp
+2025-08-03 11:22:12,380 - INFO: Processing bus: MAA KAMAKHYA (WB678911)
+2025-08-03 11:22:14,517 - INFO: Downloaded image: output/images/MAA_KAMAKHYA_WB678911.jpg
+2025-08-03 11:22:15,018 - INFO: Processing bus: SBSTC (D)
+2025-08-03 11:22:16,554 - INFO: Downloaded image: output/images/SBSTC_D.webp
+2025-08-03 11:22:17,055 - INFO: Processing bus: BADSHA (WB490036)
+2025-08-03 11:22:19,442 - INFO: Downloaded image: output/images/BADSHA_WB490036.jpg
+2025-08-03 11:22:19,944 - INFO: Processing bus: ANINDITA (WB29A3632)
+2025-08-03 11:22:22,936 - INFO: Downloaded image: output/images/ANINDITA_WB29A3632.jpg
+2025-08-03 11:22:23,438 - INFO: Processing bus: SUNRISE (WB67A8356)
+2025-08-03 11:22:25,513 - INFO: Downloaded image: output/images/SUNRISE_WB67A8356.webp
+2025-08-03 11:22:26,015 - INFO: Processing bus: SATELLITE (WB67B1577)
+2025-08-03 11:22:28,089 - INFO: Downloaded image: output/images/SATELLITE_WB67B1577.jpg
+2025-08-03 11:22:28,591 - INFO: Processing bus: DURANTA EXPRESS (WB33D0149)
+2025-08-03 11:22:30,589 - INFO: Downloaded image: output/images/DURANTA_EXPRESS_WB33D0149.jpg
+2025-08-03 11:22:31,090 - INFO: Processing bus: SUTRISHNA (WB33F1639)
+2025-08-03 11:22:33,051 - INFO: Downloaded image: output/images/SUTRISHNA_WB33F1639.jpg
+2025-08-03 11:22:33,553 - INFO: Processing bus: JOY MAA (WB15C0610)
+2025-08-03 11:22:37,021 - INFO: Downloaded image: output/images/JOY_MAA_WB15C0610.jpg
+2025-08-03 11:22:37,522 - INFO: Processing bus: JOY MAA (WB15C0610)
+2025-08-03 11:22:40,329 - INFO: Downloaded image: output/images/JOY_MAA_WB15C0610.jpg
+2025-08-03 11:22:40,830 - INFO: Processing bus: DISHA (WB29C4422)
+2025-08-03 11:22:43,407 - INFO: Downloaded image: output/images/DISHA_WB29C4422.jpg
+2025-08-03 11:22:43,908 - INFO: Processing bus: NILACHAL (WB33A6078)
+2025-08-03 11:22:46,689 - INFO: Downloaded image: output/images/NILACHAL_WB33A6078.jpg
+2025-08-03 11:22:47,190 - INFO: Page 31 completed. Found 18 buses.
+2025-08-03 11:22:49,192 - INFO: Processing page 32: https://wbbus.in/allbus?page=32
+2025-08-03 11:22:49,905 - INFO: Processing bus: MARICHIKA (WB33D4243)
+2025-08-03 11:22:52,404 - INFO: Downloaded image: output/images/MARICHIKA_WB33D4243.jpg
+2025-08-03 11:22:52,905 - INFO: Processing bus: SARADIA (WB29A9128)
+2025-08-03 11:22:55,453 - INFO: Downloaded image: output/images/SARADIA_WB29A9128.jpg
+2025-08-03 11:22:55,954 - INFO: Processing bus: MAYER ASISH (WB33E3148)
+2025-08-03 11:22:58,014 - INFO: Downloaded image: output/images/MAYER_ASISH_WB33E3148.jpg
+2025-08-03 11:22:58,516 - INFO: Processing bus: LAXMI NARAYAN (WB49N1977)
+2025-08-03 11:23:01,211 - INFO: Downloaded image: output/images/LAXMI_NARAYAN_WB49N1977.jpg
+2025-08-03 11:23:01,712 - INFO: Processing bus: MAA BAGALA (WB33A5329)
+2025-08-03 11:23:03,513 - INFO: Downloaded image: output/images/MAA_BAGALA_WB33A5329.webp
+2025-08-03 11:23:04,015 - INFO: Processing bus: TARAKNATH (WB15D7062)
+2025-08-03 11:23:06,630 - INFO: Downloaded image: output/images/TARAKNATH_WB15D7062.jpg
+2025-08-03 11:23:07,131 - INFO: Processing bus: DURANTA EXPRESS (WB33D3716)
+2025-08-03 11:23:09,587 - INFO: Downloaded image: output/images/DURANTA_EXPRESS_WB33D3716.jpg
+2025-08-03 11:23:10,089 - INFO: Processing bus: KRISHNA GOPAL (WB)
+2025-08-03 11:23:11,958 - INFO: Downloaded image: output/images/KRISHNA_GOPAL_WB.jpg
+2025-08-03 11:23:12,459 - INFO: Processing bus: S.S. TRAVELS (WB33E4717)
+2025-08-03 11:23:14,514 - INFO: Downloaded image: output/images/S.S._TRAVELS_WB33E4717.jpg
+2025-08-03 11:23:15,015 - INFO: Processing bus: S.S. TRAVELS (WB33E4717)
+2025-08-03 11:23:17,006 - INFO: Downloaded image: output/images/S.S._TRAVELS_WB33E4717.jpg
+2025-08-03 11:23:17,508 - INFO: Processing bus: PARAMITA (WB11B6660)
+2025-08-03 11:23:19,917 - INFO: Downloaded image: output/images/PARAMITA_WB11B6660.jpg
+2025-08-03 11:23:20,418 - INFO: Processing bus: AVISHEK (WB37D1825)
+2025-08-03 11:23:22,764 - INFO: Downloaded image: output/images/AVISHEK_WB37D1825.jpg
+2025-08-03 11:23:23,265 - INFO: Processing bus: SUPRIYA (WB29B9835)
+2025-08-03 11:23:25,473 - INFO: Downloaded image: output/images/SUPRIYA_WB29B9835.webp
+2025-08-03 11:23:25,974 - INFO: Processing bus: BABA LOKENATH (WB674422)
+2025-08-03 11:23:28,532 - INFO: Downloaded image: output/images/BABA_LOKENATH_WB674422.jpg
+2025-08-03 11:23:29,033 - INFO: Processing bus: ANINDITA (WB29B2249)
+2025-08-03 11:23:31,946 - INFO: Downloaded image: output/images/ANINDITA_WB29B2249.jpg
+2025-08-03 11:23:32,447 - INFO: Processing bus: BABA LOKENATH (WB29B0646)
+2025-08-03 11:23:35,232 - INFO: Downloaded image: output/images/BABA_LOKENATH_WB29B0646.jpg
+2025-08-03 11:23:35,733 - INFO: Processing bus: BABA LOKENATH (WB29B0646)
+2025-08-03 11:23:38,831 - INFO: Downloaded image: output/images/BABA_LOKENATH_WB29B0646.jpg
+2025-08-03 11:23:39,333 - INFO: Processing bus: SANGHAMITRA (WB29B7899)
+2025-08-03 11:23:41,843 - INFO: Downloaded image: output/images/SANGHAMITRA_WB29B7899.jpg
+2025-08-03 11:23:42,345 - INFO: Page 32 completed. Found 18 buses.
+2025-08-03 11:23:44,347 - INFO: Processing page 33: https://wbbus.in/allbus?page=33
+2025-08-03 11:23:45,039 - INFO: Processing bus: MAA SHARADA (WB41H3747)
+2025-08-03 11:23:47,352 - INFO: Downloaded image: output/images/MAA_SHARADA_WB41H3747.webp
+2025-08-03 11:23:47,853 - INFO: Processing bus: NILACHAL (WB29C3350)
+2025-08-03 11:23:50,478 - INFO: Downloaded image: output/images/NILACHAL_WB29C3350.jpg
+2025-08-03 11:23:50,980 - INFO: Processing bus: DAS TRAVELS (WB33C1175)
+2025-08-03 11:23:53,340 - INFO: Downloaded image: output/images/DAS_TRAVELS_WB33C1175.jpg
+2025-08-03 11:23:53,841 - INFO: Processing bus: NILKANTHA (WB33C6656)
+2025-08-03 11:23:56,446 - INFO: Downloaded image: output/images/NILKANTHA_WB33C6656.jpg
+2025-08-03 11:23:56,947 - INFO: Processing bus: DURANTO (WB51C6819)
+2025-08-03 11:23:59,606 - INFO: Downloaded image: output/images/DURANTO_WB51C6819.jpg
+2025-08-03 11:24:00,107 - INFO: Processing bus: KRISHNA SUDAMA (WB33A5221)
+2025-08-03 11:24:02,887 - INFO: Downloaded image: output/images/KRISHNA_SUDAMA_WB33A5221.jpg
+2025-08-03 11:24:03,389 - INFO: Processing bus: KRISHNA SUDAMA (WB33A5221)
+2025-08-03 11:24:05,642 - INFO: Downloaded image: output/images/KRISHNA_SUDAMA_WB33A5221.jpg
+2025-08-03 11:24:06,144 - INFO: Processing bus: PARTHA SARATHI (WB33E4696)
+2025-08-03 11:24:09,147 - INFO: Downloaded image: output/images/PARTHA_SARATHI_WB33E4696.jpg
+2025-08-03 11:24:09,649 - INFO: Processing bus: MDG (WB17N4117)
+2025-08-03 11:24:11,855 - INFO: Downloaded image: output/images/MDG_WB17N4117.webp
+2025-08-03 11:24:12,356 - INFO: Processing bus: JOY GURU (WB33A3838)
+2025-08-03 11:24:15,253 - INFO: Downloaded image: output/images/JOY_GURU_WB33A3838.jpg
+2025-08-03 11:24:15,754 - INFO: Processing bus: JOY GURU (WB33A3838)
+2025-08-03 11:24:18,826 - INFO: Downloaded image: output/images/JOY_GURU_WB33A3838.jpg
+2025-08-03 11:24:19,327 - INFO: Processing bus: PURUSHOTTAM (WB33F2139)
+2025-08-03 11:24:21,907 - INFO: Downloaded image: output/images/PURUSHOTTAM_WB33F2139.jpg
+2025-08-03 11:24:22,409 - INFO: Processing bus: BLACK PANTHER (WB33B8343)
+2025-08-03 11:24:25,069 - INFO: Downloaded image: output/images/BLACK_PANTHER_WB33B8343.jpg
+2025-08-03 11:24:25,571 - INFO: Processing bus: ANNAPURNA (WB55A2658)
+2025-08-03 11:24:29,916 - INFO: Downloaded image: output/images/ANNAPURNA_WB55A2658.jpg
+2025-08-03 11:24:30,417 - INFO: Processing bus: GRAM BANGLA (WB49N0837)
+2025-08-03 11:24:32,916 - INFO: Downloaded image: output/images/GRAM_BANGLA_WB49N0837.jpg
+2025-08-03 11:24:33,417 - INFO: Processing bus: DAKSHAYANI (WB33F2768)
+2025-08-03 11:24:36,046 - INFO: Downloaded image: output/images/DAKSHAYANI_WB33F2768.jpg
+2025-08-03 11:24:36,547 - INFO: Processing bus: SRIJITA (WB535712)
+2025-08-03 11:24:39,221 - INFO: Downloaded image: output/images/SRIJITA_WB535712.jpg
+2025-08-03 11:24:39,722 - INFO: Processing bus: MAYABATI (WB17N3896)
+2025-08-03 11:24:42,340 - INFO: Downloaded image: output/images/MAYABATI_WB17N3896.jpg
+2025-08-03 11:24:42,841 - INFO: Page 33 completed. Found 18 buses.
+2025-08-03 11:24:44,844 - INFO: Processing page 34: https://wbbus.in/allbus?page=34
+2025-08-03 11:24:45,564 - INFO: Processing bus: CHARUBALA (WB67A6652)
+2025-08-03 11:24:48,111 - INFO: Downloaded image: output/images/CHARUBALA_WB67A6652.jpg
+2025-08-03 11:24:48,613 - INFO: Processing bus: DURGA (WB17N2838)
+2025-08-03 11:24:51,195 - INFO: Downloaded image: output/images/DURGA_WB17N2838.jpg
+2025-08-03 11:24:51,696 - INFO: Processing bus: NOOR TRAVELS (WB15D5736)
+2025-08-03 11:24:54,197 - INFO: Downloaded image: output/images/NOOR_TRAVELS_WB15D5736.jpg
+2025-08-03 11:24:54,698 - INFO: Processing bus: ANINDYA BRISTI (WB23D0661)
+2025-08-03 11:24:57,601 - INFO: Downloaded image: output/images/ANINDYA_BRISTI_WB23D0661.jpg
+2025-08-03 11:24:58,103 - INFO: Processing bus: AKASH BRISTI (WB15A8046)
+2025-08-03 11:25:00,332 - INFO: Downloaded image: output/images/AKASH_BRISTI_WB15A8046.jpg
+2025-08-03 11:25:00,833 - INFO: Processing bus: DEBRAJ (WB67C1759)
+2025-08-03 11:25:06,737 - INFO: Downloaded image: output/images/DEBRAJ_WB67C1759.jpg
+2025-08-03 11:25:07,239 - INFO: Processing bus: DEBRAJ (WB67C1759)
+2025-08-03 11:25:11,573 - INFO: Downloaded image: output/images/DEBRAJ_WB67C1759.jpg
+2025-08-03 11:25:12,075 - INFO: Processing bus: KALPANA (WB33C8103)
+2025-08-03 11:25:14,314 - INFO: Downloaded image: output/images/KALPANA_WB33C8103.jpg
+2025-08-03 11:25:14,815 - INFO: Processing bus: PROMILA (WB53C1375)
+2025-08-03 11:25:16,609 - INFO: Downloaded image: output/images/PROMILA_WB53C1375.webp
+2025-08-03 11:25:17,110 - INFO: Processing bus: BED MATA (WB33C3399)
+2025-08-03 11:25:19,175 - INFO: Downloaded image: output/images/BED_MATA_WB33C3399.jpg
+2025-08-03 11:25:19,677 - INFO: Processing bus: MASTI (WB41H8966)
+2025-08-03 11:25:21,646 - INFO: Downloaded image: output/images/MASTI_WB41H8966.jpg
+2025-08-03 11:25:22,147 - INFO: Processing bus: SWEETY (WB37E4545)
+2025-08-03 11:25:24,663 - INFO: Downloaded image: output/images/SWEETY_WB37E4545.jpg
+2025-08-03 11:25:25,164 - INFO: Processing bus: PUTUL (WB67B4993)
+2025-08-03 11:25:27,358 - INFO: Downloaded image: output/images/PUTUL_WB67B4993.jpg
+2025-08-03 11:25:27,859 - INFO: Processing bus: MAA MANASA DEBI (WB55B7174)
+2025-08-03 11:25:29,863 - INFO: Downloaded image: output/images/MAA_MANASA_DEBI_WB55B7174.jpg
+2025-08-03 11:25:30,364 - INFO: Processing bus: PRIYANKA (WB17N4048)
+2025-08-03 11:25:32,741 - INFO: Downloaded image: output/images/PRIYANKA_WB17N4048.jpg
+2025-08-03 11:25:33,242 - INFO: Processing bus: BANDANA (WB17N2884)
+2025-08-03 11:25:35,191 - INFO: Downloaded image: output/images/BANDANA_WB17N2884.jpg
+2025-08-03 11:25:35,692 - INFO: Processing bus: ARMAN (WB33D4137)
+2025-08-03 11:25:37,683 - INFO: Downloaded image: output/images/ARMAN_WB33D4137.webp
+2025-08-03 11:25:38,184 - INFO: Processing bus: MAA TARA (WB33F2745)
+2025-08-03 11:25:40,096 - INFO: Downloaded image: output/images/MAA_TARA_WB33F2745.jpg
+2025-08-03 11:25:40,597 - INFO: Page 34 completed. Found 18 buses.
+2025-08-03 11:25:42,600 - INFO: Processing page 35: https://wbbus.in/allbus?page=35
+2025-08-03 11:25:43,294 - INFO: Processing bus: TITHY (WB67A7337)
+2025-08-03 11:25:45,151 - INFO: Downloaded image: output/images/TITHY_WB67A7337.jpg
+2025-08-03 11:25:45,652 - INFO: Processing bus: KRISHNA GOPAL (WB496696)
+2025-08-03 11:25:47,577 - INFO: Downloaded image: output/images/KRISHNA_GOPAL_WB496696.jpg
+2025-08-03 11:25:48,079 - INFO: Processing bus: PRIYANKA (WB15C1722)
+2025-08-03 11:25:53,337 - INFO: Downloaded image: output/images/PRIYANKA_WB15C1722.jpg
+2025-08-03 11:25:53,838 - INFO: Processing bus: DULHAN (WB41K1492)
+2025-08-03 11:25:55,752 - INFO: Downloaded image: output/images/DULHAN_WB41K1492.jpg
+2025-08-03 11:25:56,254 - INFO: Processing bus: RADHARANI (WB33A8173)
+2025-08-03 11:25:58,197 - INFO: Downloaded image: output/images/RADHARANI_WB33A8173.jpg
+2025-08-03 11:25:58,698 - INFO: Processing bus: RADHARANI (WB33A8173)
+2025-08-03 11:26:00,663 - INFO: Downloaded image: output/images/RADHARANI_WB33A8173.jpg
+2025-08-03 11:26:01,165 - INFO: Processing bus: PUTUL (WB67B1995)
+2025-08-03 11:26:03,098 - INFO: Downloaded image: output/images/PUTUL_WB67B1995.jpg
+2025-08-03 11:26:03,599 - INFO: Processing bus: JINIA (WB39C2536)
+2025-08-03 11:26:05,532 - INFO: Downloaded image: output/images/JINIA_WB39C2536.jpg
+2025-08-03 11:26:06,033 - INFO: Processing bus: SANGEETA (WB67C1590)
+2025-08-03 11:26:07,982 - INFO: Downloaded image: output/images/SANGEETA_WB67C1590.jpg
+2025-08-03 11:26:08,483 - INFO: Processing bus: TAMRALIPTA EXPRESS (WB31A7576)
+2025-08-03 11:26:10,202 - INFO: Downloaded image: output/images/TAMRALIPTA_EXPRESS_WB31A7576.webp
+2025-08-03 11:26:10,703 - INFO: Processing bus: SAMRAT (WB41E1212)
+2025-08-03 11:26:12,643 - INFO: Downloaded image: output/images/SAMRAT_WB41E1212.jpg
+2025-08-03 11:26:13,144 - INFO: Processing bus: MARUTI (WB55B7116)
+2025-08-03 11:26:15,059 - INFO: Downloaded image: output/images/MARUTI_WB55B7116.jpg
+2025-08-03 11:26:15,561 - INFO: Processing bus: ARANYAK (WB494375)
+2025-08-03 11:26:17,302 - INFO: Downloaded image: output/images/ARANYAK_WB494375.jpg
+2025-08-03 11:26:17,804 - INFO: Processing bus: PAMELA (WB37D1358)
+2025-08-03 11:26:19,717 - INFO: Downloaded image: output/images/PAMELA_WB37D1358.jpg
+2025-08-03 11:26:20,219 - INFO: Processing bus: BANGA BHUMI (WB29C3063)
+2025-08-03 11:26:21,864 - INFO: Downloaded image: output/images/BANGA_BHUMI_WB29C3063.webp
+2025-08-03 11:26:22,365 - INFO: Processing bus: ANIKET (WB41G0280)
+2025-08-03 11:26:24,308 - INFO: Downloaded image: output/images/ANIKET_WB41G0280.jpg
+2025-08-03 11:26:24,810 - INFO: Processing bus: SARBOJOYA (WB67B1067)
+2025-08-03 11:26:26,750 - INFO: Downloaded image: output/images/SARBOJOYA_WB67B1067.jpg
+2025-08-03 11:26:27,252 - INFO: Processing bus: ANIKET (WB41H1000)
+2025-08-03 11:26:28,787 - INFO: Downloaded image: output/images/ANIKET_WB41H1000.webp
+2025-08-03 11:26:29,288 - INFO: Page 35 completed. Found 18 buses.
+2025-08-03 11:26:31,291 - INFO: Processing page 36: https://wbbus.in/allbus?page=36
+2025-08-03 11:26:31,968 - INFO: Processing bus: TRIBENI (WB33D3770)
+2025-08-03 11:26:34,206 - INFO: Downloaded image: output/images/TRIBENI_WB33D3770.jpg
+2025-08-03 11:26:34,707 - INFO: Processing bus: ATITHI (WB67C1767)
+2025-08-03 11:26:36,757 - INFO: Downloaded image: output/images/ATITHI_WB67C1767.jpg
+2025-08-03 11:26:37,259 - INFO: Processing bus: MITRA (WB31A7496)
+2025-08-03 11:26:39,102 - INFO: Downloaded image: output/images/MITRA_WB31A7496.jpg
+2025-08-03 11:26:39,603 - INFO: Processing bus: JOY BABA KHETRAPAL (WB33B0191)
+2025-08-03 11:26:41,325 - INFO: Downloaded image: output/images/JOY_BABA_KHETRAPAL_WB33B0191.webp
+2025-08-03 11:26:41,826 - INFO: Processing bus: JOY BABA KHETRAPAL (WB33A8549)
+2025-08-03 11:26:43,708 - INFO: Downloaded image: output/images/JOY_BABA_KHETRAPAL_WB33A8549.jpg
+2025-08-03 11:26:44,209 - INFO: Processing bus: JOY BABA KHETRAPAL (WB33A8549)
+2025-08-03 11:26:46,096 - INFO: Downloaded image: output/images/JOY_BABA_KHETRAPAL_WB33A8549.jpg
+2025-08-03 11:26:46,597 - INFO: Processing bus: SBSTC (B)
+2025-08-03 11:26:48,568 - INFO: Downloaded image: output/images/SBSTC_B.jpg
+2025-08-03 11:26:49,069 - INFO: Processing bus: SANY (WB29B9748)
+2025-08-03 11:26:51,329 - INFO: Downloaded image: output/images/SANY_WB29B9748.jpg
+2025-08-03 11:26:51,831 - INFO: Processing bus: MITRA (WB314783)
+2025-08-03 11:26:53,764 - INFO: Downloaded image: output/images/MITRA_WB314783.jpg
+2025-08-03 11:26:54,265 - INFO: Processing bus: JOY BABA KHETRAPAL (WB33D3996)
+2025-08-03 11:26:56,008 - INFO: Downloaded image: output/images/JOY_BABA_KHETRAPAL_WB33D3996.jpg
+2025-08-03 11:26:56,509 - INFO: Processing bus: JOY BABA KHETRAPAL (WB33D3996)
+2025-08-03 11:26:58,235 - INFO: Downloaded image: output/images/JOY_BABA_KHETRAPAL_WB33D3996.jpg
+2025-08-03 11:26:58,736 - INFO: Processing bus: RAIDUL (WB33F2282)
+2025-08-03 11:27:00,426 - INFO: Downloaded image: output/images/RAIDUL_WB33F2282.jpg
+2025-08-03 11:27:00,927 - INFO: Processing bus: NEWTON (WB33A4292)
+2025-08-03 11:27:02,874 - INFO: Downloaded image: output/images/NEWTON_WB33A4292.jpg
+2025-08-03 11:27:03,376 - INFO: Processing bus: SUBHADEEP (WB679788)
+2025-08-03 11:27:05,583 - INFO: Downloaded image: output/images/SUBHADEEP_WB679788.webp
+2025-08-03 11:27:06,085 - INFO: Processing bus: MADHURI (WB67A5967)
+2025-08-03 11:27:08,108 - INFO: Downloaded image: output/images/MADHURI_WB67A5967.webp
+2025-08-03 11:27:08,609 - INFO: Processing bus: RAJPATH (WB67B8736)
+2025-08-03 11:27:10,502 - INFO: Downloaded image: output/images/RAJPATH_WB67B8736.jpg
+2025-08-03 11:27:11,003 - INFO: Processing bus: AVINANDAN (WB33D3494)
+2025-08-03 11:27:12,883 - INFO: Downloaded image: output/images/AVINANDAN_WB33D3494.webp
+2025-08-03 11:27:13,385 - INFO: Processing bus: PUTUL (WB67C1646)
+2025-08-03 11:27:16,104 - INFO: Downloaded image: output/images/PUTUL_WB67C1646.jpg
+2025-08-03 11:27:16,605 - INFO: Page 36 completed. Found 18 buses.
+2025-08-03 11:27:18,607 - INFO: Processing page 37: https://wbbus.in/allbus?page=37
+2025-08-03 11:27:19,303 - INFO: Processing bus: MAA ANANDAMOYEE (WB33D9706)
+2025-08-03 11:27:21,032 - INFO: Downloaded image: output/images/MAA_ANANDAMOYEE_WB33D9706.jpg
+2025-08-03 11:27:21,534 - INFO: Processing bus: RAHUL (WB870426)
+2025-08-03 11:27:23,290 - INFO: Downloaded image: output/images/RAHUL_WB870426.jpg
+2025-08-03 11:27:23,791 - INFO: Processing bus: APARAJITA (WB29B6266)
+2025-08-03 11:27:25,851 - INFO: Downloaded image: output/images/APARAJITA_WB29B6266.jpg
+2025-08-03 11:27:26,352 - INFO: Processing bus: MAA DURGA (WB673278)
+2025-08-03 11:27:28,419 - INFO: Downloaded image: output/images/MAA_DURGA_WB673278.jpg
+2025-08-03 11:27:28,920 - INFO: Processing bus: LAL PARUL (WB67B1994)
+2025-08-03 11:27:30,961 - INFO: Downloaded image: output/images/LAL_PARUL_WB67B1994.jpg
+2025-08-03 11:27:31,463 - INFO: Processing bus: BIBEK (WB67B1534)
+2025-08-03 11:27:33,426 - INFO: Downloaded image: output/images/BIBEK_WB67B1534.jpg
+2025-08-03 11:27:33,927 - INFO: Processing bus: NATIONAL (WB37D3223)
+2025-08-03 11:27:36,258 - INFO: Downloaded image: output/images/NATIONAL_WB37D3223.jpg
+2025-08-03 11:27:36,759 - INFO: Processing bus: MANUMUN (WB33A9672)
+2025-08-03 11:27:38,992 - INFO: Downloaded image: output/images/MANUMUN_WB33A9672.jpg
+2025-08-03 11:27:39,494 - INFO: Processing bus: DARSHAN (WB676226)
+2025-08-03 11:27:41,386 - INFO: Downloaded image: output/images/DARSHAN_WB676226.jpg
+2025-08-03 11:27:41,888 - INFO: Processing bus: MAA BAGALA (WB33D5786)
+2025-08-03 11:27:44,248 - INFO: Downloaded image: output/images/MAA_BAGALA_WB33D5786.webp
+2025-08-03 11:27:44,749 - INFO: Processing bus: MAA VAISHNODEVI (WB29A0933)
+2025-08-03 11:27:46,440 - INFO: Downloaded image: output/images/MAA_VAISHNODEVI_WB29A0933.jpg
+2025-08-03 11:27:46,941 - INFO: Processing bus: MADANMOHAN (WB67B4671)
+2025-08-03 11:27:48,747 - INFO: Downloaded image: output/images/MADANMOHAN_WB67B4671.jpg
+2025-08-03 11:27:49,248 - INFO: Processing bus: AISHINI (WB55B6699)
+2025-08-03 11:27:51,241 - INFO: Downloaded image: output/images/AISHINI_WB55B6699.jpg
+2025-08-03 11:27:51,742 - INFO: Processing bus: BHAGYALAXMI (WB55B7227)
+2025-08-03 11:27:53,559 - INFO: Downloaded image: output/images/BHAGYALAXMI_WB55B7227.webp
+2025-08-03 11:27:54,060 - INFO: Processing bus: MUNNA COACH (WB554835)
+2025-08-03 11:27:56,098 - INFO: Downloaded image: output/images/MUNNA_COACH_WB554835.jpg
+2025-08-03 11:27:56,599 - INFO: Processing bus: CITY LINK (WB29A2716)
+2025-08-03 11:27:58,511 - INFO: Downloaded image: output/images/CITY_LINK_WB29A2716.jpg
+2025-08-03 11:27:59,012 - INFO: Processing bus: NATIONAL (WB556188)
+2025-08-03 11:28:00,795 - INFO: Downloaded image: output/images/NATIONAL_WB556188.jpg
+2025-08-03 11:28:01,297 - INFO: Processing bus: SOURIK (WB33F2550)
+2025-08-03 11:28:06,253 - INFO: Downloaded image: output/images/SOURIK_WB33F2550.jpg
+2025-08-03 11:28:06,754 - INFO: Page 37 completed. Found 18 buses.
+2025-08-03 11:28:08,756 - INFO: Processing page 38: https://wbbus.in/allbus?page=38
+2025-08-03 11:28:09,435 - INFO: Processing bus: MAFUZAR (WB37D6341)
+2025-08-03 11:28:11,347 - INFO: Downloaded image: output/images/MAFUZAR_WB37D6341.jpg
+2025-08-03 11:28:11,848 - INFO: Processing bus: NIGAMDUT (WB33F2449)
+2025-08-03 11:28:13,559 - INFO: Downloaded image: output/images/NIGAMDUT_WB33F2449.webp
+2025-08-03 11:28:14,061 - INFO: Processing bus: PEKHAM (WB33B9857)
+2025-08-03 11:28:16,100 - INFO: Downloaded image: output/images/PEKHAM_WB33B9857.jpg
+2025-08-03 11:28:16,601 - INFO: Processing bus: JINIA (WB39D0748)
+2025-08-03 11:28:18,680 - INFO: Downloaded image: output/images/JINIA_WB39D0748.webp
+2025-08-03 11:28:19,182 - INFO: Processing bus: ANINDITA (WB318580)
+2025-08-03 11:28:21,370 - INFO: Downloaded image: output/images/ANINDITA_WB318580.webp
+2025-08-03 11:28:21,871 - INFO: Processing bus: RAJMAHAL (WB55B6574)
+2025-08-03 11:28:23,868 - INFO: Downloaded image: output/images/RAJMAHAL_WB55B6574.webp
+2025-08-03 11:28:24,370 - INFO: Processing bus: SHIV SHAKTI (WB67B9011)
+2025-08-03 11:28:26,073 - INFO: Downloaded image: output/images/SHIV_SHAKTI_WB67B9011.webp
+2025-08-03 11:28:26,575 - INFO: Processing bus: BENGAL TIGER (WB67C1133)
+2025-08-03 11:28:28,505 - INFO: Downloaded image: output/images/BENGAL_TIGER_WB67C1133.jpg
+2025-08-03 11:28:29,006 - INFO: Processing bus: TAMRALIPTA EXPRESS (WB29B9829)
+2025-08-03 11:28:31,148 - INFO: Downloaded image: output/images/TAMRALIPTA_EXPRESS_WB29B9829.jpg
+2025-08-03 11:28:31,649 - INFO: Processing bus: RADHA GOBINDA (WB67A4996)
+2025-08-03 11:28:33,786 - INFO: Downloaded image: output/images/RADHA_GOBINDA_WB67A4996.jpg
+2025-08-03 11:28:34,287 - INFO: Processing bus: KRISHNA GOPAL (WB41D8684)
+2025-08-03 11:28:36,499 - INFO: Downloaded image: output/images/KRISHNA_GOPAL_WB41D8684.jpg
+2025-08-03 11:28:37,001 - INFO: Processing bus: MAHAMAYA (WB55A6177)
+2025-08-03 11:28:38,966 - INFO: Downloaded image: output/images/MAHAMAYA_WB55A6177.jpg
+2025-08-03 11:28:39,468 - INFO: Processing bus: MAHAMAYA (WB55A6177)
+2025-08-03 11:28:41,665 - INFO: Downloaded image: output/images/MAHAMAYA_WB55A6177.jpg
+2025-08-03 11:28:42,167 - INFO: Processing bus: WASIF (WB39B0782)
+2025-08-03 11:28:43,978 - INFO: Downloaded image: output/images/WASIF_WB39B0782.webp
+2025-08-03 11:28:44,479 - INFO: Processing bus: JOY BABA SANNYASI (WB676140)
+2025-08-03 11:28:46,591 - INFO: Downloaded image: output/images/JOY_BABA_SANNYASI_WB676140.jpg
+2025-08-03 11:28:47,093 - INFO: Processing bus: DEBI LAXMI (WB41J5178)
+2025-08-03 11:28:48,955 - INFO: Downloaded image: output/images/DEBI_LAXMI_WB41J5178.jpg
+2025-08-03 11:28:49,457 - INFO: Processing bus: ANKUSH (WB49N2212)
+2025-08-03 11:28:51,307 - INFO: Downloaded image: output/images/ANKUSH_WB49N2212.webp
+2025-08-03 11:28:51,808 - INFO: Processing bus: SHIV DURGA (WB37E5686)
+2025-08-03 11:28:53,693 - INFO: Downloaded image: output/images/SHIV_DURGA_WB37E5686.jpg
+2025-08-03 11:28:54,195 - INFO: Page 38 completed. Found 18 buses.
+2025-08-03 11:28:56,197 - INFO: Processing page 39: https://wbbus.in/allbus?page=39
+2025-08-03 11:28:56,872 - INFO: Processing bus: ASHA (WB41K3294)
+2025-08-03 11:28:58,610 - INFO: Downloaded image: output/images/ASHA_WB41K3294.webp
+2025-08-03 11:28:59,111 - INFO: Processing bus: LAL KAMAL (WB29C1146)
+2025-08-03 11:29:00,938 - INFO: Downloaded image: output/images/LAL_KAMAL_WB29C1146.webp
+2025-08-03 11:29:01,439 - INFO: Processing bus: SHIBANI INTERNATIONAL (WB29B7413)
+2025-08-03 11:29:03,141 - INFO: Downloaded image: output/images/SHIBANI_INTERNATIONAL_WB29B7413.webp
+2025-08-03 11:29:03,643 - INFO: Processing bus: KUHELIKA (WB41G5115)
+2025-08-03 11:29:05,858 - INFO: Downloaded image: output/images/KUHELIKA_WB41G5115.jpg
+2025-08-03 11:29:06,359 - INFO: Processing bus: PEKHAM (WB33D3955)
+2025-08-03 11:29:08,503 - INFO: Downloaded image: output/images/PEKHAM_WB33D3955.jpg
+2025-08-03 11:29:09,004 - INFO: Processing bus: NILACHAL (WB11C3680)
+2025-08-03 11:29:11,254 - INFO: Downloaded image: output/images/NILACHAL_WB11C3680.jpg
+2025-08-03 11:29:11,755 - INFO: Processing bus: SIXER (WB55B7112)
+2025-08-03 11:29:13,533 - INFO: Downloaded image: output/images/SIXER_WB55B7112.jpg
+2025-08-03 11:29:14,035 - INFO: Processing bus: MAJHI BABA (WB33B1863)
+2025-08-03 11:29:16,241 - INFO: Downloaded image: output/images/MAJHI_BABA_WB33B1863.jpg
+2025-08-03 11:29:16,742 - INFO: Processing bus: MAJHI BABA (WB33B1863)
+2025-08-03 11:29:19,226 - INFO: Downloaded image: output/images/MAJHI_BABA_WB33B1863.jpg
+2025-08-03 11:29:19,727 - INFO: Processing bus: SBSTC (J)
+2025-08-03 11:29:21,908 - INFO: Downloaded image: output/images/SBSTC_J.jpg
+2025-08-03 11:29:22,410 - INFO: Processing bus: KANDARI (WB41F9293)
+2025-08-03 11:29:24,302 - INFO: Downloaded image: output/images/KANDARI_WB41F9293.jpg
+2025-08-03 11:29:24,803 - INFO: Processing bus: SBSTC (WB39B4712)
+2025-08-03 11:29:26,794 - INFO: Downloaded image: output/images/SBSTC_WB39B4712.jpg
+2025-08-03 11:29:27,296 - INFO: Processing bus: LAXMI PRIYA (WB33A2338)
+2025-08-03 11:29:29,256 - INFO: Downloaded image: output/images/LAXMI_PRIYA_WB33A2338.jpg
+2025-08-03 11:29:29,757 - INFO: Processing bus: ASHIRVAD (WB41K1521)
+2025-08-03 11:29:31,806 - INFO: Downloaded image: output/images/ASHIRVAD_WB41K1521.jpg
+2025-08-03 11:29:32,308 - INFO: Processing bus: ISHIKA (WB41K2500)
+2025-08-03 11:29:34,234 - INFO: Downloaded image: output/images/ISHIKA_WB41K2500.jpg
+2025-08-03 11:29:34,735 - INFO: Processing bus: SWEETY (WB19F8865)
+2025-08-03 11:29:36,726 - INFO: Downloaded image: output/images/SWEETY_WB19F8865.jpg
+2025-08-03 11:29:37,227 - INFO: Processing bus: MAA LAXMI (WB67A5683)
+2025-08-03 11:29:39,208 - INFO: Downloaded image: output/images/MAA_LAXMI_WB67A5683.jpg
+2025-08-03 11:29:39,709 - INFO: Processing bus: NARAYANI (WB55)
+2025-08-03 11:29:41,614 - INFO: Downloaded image: output/images/NARAYANI_WB55.jpg
+2025-08-03 11:29:42,115 - INFO: Page 39 completed. Found 18 buses.
+2025-08-03 11:29:44,117 - INFO: Processing page 40: https://wbbus.in/allbus?page=40
+2025-08-03 11:29:44,724 - INFO: Processing bus: JOY BABA KHETRAPAL (WB33C8448)
+2025-08-03 11:29:46,940 - INFO: Downloaded image: output/images/JOY_BABA_KHETRAPAL_WB33C8448.jpg
+2025-08-03 11:29:47,442 - INFO: Processing bus: KALI SHANKAR (WB55B5711)
+2025-08-03 11:29:49,439 - INFO: Downloaded image: output/images/KALI_SHANKAR_WB55B5711.jpg
+2025-08-03 11:29:49,940 - INFO: Processing bus: MAINAK (WB519592)
+2025-08-03 11:29:51,746 - INFO: Downloaded image: output/images/MAINAK_WB519592.webp
+2025-08-03 11:29:52,247 - INFO: Page 40 completed. Found 3 buses.
+2025-08-03 11:29:54,252 - INFO: CSV file written successfully: output/bus_data.csv
+2025-08-03 11:29:54,253 - INFO: Scraping completed successfully!
+2025-08-03 11:29:54,253 - INFO: Total buses processed: 705
+2025-08-03 11:29:54,253 - INFO: Images downloaded: 705
+2025-08-03 11:29:54,253 - INFO: Data saved to: output/bus_data.csv
+2025-08-03 11:29:54,253 - INFO: Images saved to: output/images
